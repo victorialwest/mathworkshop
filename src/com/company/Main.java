@@ -22,10 +22,10 @@ public class Main {
         System.out.println("Math.ceil(Math.random() * 10) = " ); Math.ceil(Math.random() * 10);
 
         System.out.println("10.3 * 5 = " + 10.3 * 5);
-        System.out.println("Math.ceil(10.3 * 5) = "); + Math.ceil(10.3 * 5);
+        System.out.println("Math.ceil(10.3 * 5) = ");
 
         System.out.println("Math.floor() Examples: ");
-        System.out.println("Math.floor(10.3 * 5) = " ); + Math.floor(10.3 * 5);
+        System.out.println("Math.floor(10.3 * 5) = " );
 
         System.out.println("Math.round() Examples: ");
 
